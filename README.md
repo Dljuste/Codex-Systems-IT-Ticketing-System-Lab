@@ -10,13 +10,10 @@ The purpose of this lab was to simulate real-world IT service management (ITSM) 
 ## 📁 Documentation
 
 Detailed breakdowns are available in the [/docs](./docs) folder:
-1. [01_Overview.md](./docs/01_Overview.md) → Project overview and objectives  
-2. [02_osTicket_Setup.md](./docs/02_osTicket_Setup.md) → osTicket installation & configuration  
-3. [03_osTicket_Tickets.md](./docs/03_osTicket_Tickets.md) → Two example ticket resolutions  
-4. [04_Spiceworks_Setup.md](./docs/04_Spiceworks_Setup.md) → Spiceworks cloud setup and configuration  
-5. [05_Spiceworks_Tickets.md](./docs/05_Spiceworks_Tickets.md) → Twelve simulated tickets & workflows  
-6. [06_Azure_Environment.md](./docs/06_Azure_Environment.md) → Azure VM deployment & network setup  
-7. [07_Conclusion.md](./docs/07_Conclusion.md) → Summary, results, and future enhancements  
+1. [01_osTicket_Setup.md](./docs/02_osTicket_Setup.md) → osTicket installation & configuration  
+2. [02_osTicket_Tickets.md](./docs/03_osTicket_Tickets.md) → Two example ticket resolutions  
+3. [03_Spiceworks_Tickets.md](./docs/05_Spiceworks_Tickets.md) → Twelve simulated tickets & workflows   
+4. [04_Conclusion.md](./docs/07_Conclusion.md) → Summary, results, and future enhancements  
 
 ---
 
