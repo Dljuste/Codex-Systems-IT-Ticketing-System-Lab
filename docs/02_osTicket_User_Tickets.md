@@ -5,24 +5,24 @@ The following two tickets demonstrate standard IT service desk workflows within 
 ---
 
 ### 🧾 Ticket #263456: Locked out of account
-**Category:** User Account 👤 
-**Submitted by:** Employee(Roby F)  
-**Assigned to:** Helpdesk Technician II  
-**Resolution:** Unlock user account through Active Directory Users and Computers. Verified logon success.  
-**Outcome:** Issue resolved within SLA window. User regained account access.
+- **Category:** User Account 👤 
+- **Submitted by:** Employee(Roby F)  
+- **Assigned to:** Helpdesk Technician II  
+- **Resolution:** Unlock user account through Active Directory Users and Computers. Verified logon success.  
+- **Outcome:** Issue resolved within SLA window. User regained account access.
+
+  🎥 **Video Reference:**[osTicket Demonstration](https://youtu.be/L1YBVSlaopE)
 
 ---
 
 ### 🧾 Ticket #325769: Password Reset
-**Category:** User Account 👤 
-**Submitted by:** Employee( Maya L) 
-**Assigned to:** Helpdesk Technician II  
-**Resolution:** Reset user password through Active Directory.  
-**Outcome:** Resetted users password and allowed them to change it when they log on next time.
+- **Category:** User Account 👤 
+- **Submitted by:** Employee( Maya L) 
+- **Assigned to:** Helpdesk Technician II  
+- **Resolution:** Reset user password through Active Directory.  
+- **Outcome:** Resetted users password and allowed them to change it when they log on next time.
 
+  🎥 **Video Reference:**[osTicket Demonstration](https://youtu.be/blmsOLxYQe8)
 ---
 
-🎥 **Video Reference:**[osTicket Demonstration]
 
-- Ticket #263456(https://youtu.be/L1YBVSlaopE) 
-- Ticket #325769(https://youtu.be/blmsOLxYQe8)
