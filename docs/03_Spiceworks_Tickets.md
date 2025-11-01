@@ -24,6 +24,29 @@ This section documents 13 simulated tickets that reflect real-world IT operation
 
 ---
 
-🎥 **Video Reference:** [Spiceworks Ticket Demo]
+**Active Directory & Non-Active Directory Tickets**
+
+🧾 Ticket #6: New Employee
+Category: User Account 👤
+Submitted by: Employee
+Assigned to: Daphne Louis-Juste
+Resolution: Create an account for a new employee through Active Directory.
+Outcome: Issue resolved within SLA window. User account created.
+
+🧾 Ticket #8: Disable User Account
+Category: User Account 👤 
+Submitted by: Employee 
+Assigned to: Daphne Louis-Juste
+Resolution: Disable user account through Active Directory.
+Outcome: Disabled users account,changed there password and turned off log-on hours.
+
+🧾 Ticket #8: Disable User Account
+Category: User Account 👤 
+Submitted by: Employee 
+Assigned to: Daphne Louis-Juste
+Resolution: Disable user account through Active Directory.
+Outcome: Disabled users account,changed there password and turned off log-on hours.
+
+
 
 -
