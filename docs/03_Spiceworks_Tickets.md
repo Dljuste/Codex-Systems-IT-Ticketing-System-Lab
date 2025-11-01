@@ -7,38 +7,43 @@ This section documents 13 simulated tickets that reflect real-world IT operation
 ### 🧾 Example Ticket Types
 
 **Active Directory & Non-Active Directory**
-1. New employee setup(AD)
-2. Disabled a users account(AD)
-3. Application installation 
-4. Application Issue
-5. Backup recover
-6. Virus popup
-7. Printer issue
+- New employee setup(AD) ✓
+- Disabled a users account(AD) ✓
+- Application installation 
+- Application Issue
+- Backup recover
+- Virus popup
+- Printer issue
+  
 **Microsoft 365**
-1.Creating a user
-2.Password Reset
-3.Assign user to a group
-4.Remove a user
-5.MFA Issues
-6.Shared mailbox setup
+- Creating a user
+- Password Reset
+- Assign user to a group
+- Remove a user
+- MFA Issues
+- Shared mailbox setup
 
 ---
 
 **Active Directory & Non-Active Directory Tickets**
 
-🧾 Ticket #6: New Employee
-Category: User Account 👤
-Submitted by: Employee
-Assigned to: Daphne Louis-Juste
-Resolution: Create an account for a new employee through Active Directory.
-Outcome: Issue resolved within SLA window. User account created.
-
-🧾 Ticket #8: Disable User Account
-Category: User Account 👤 
-Submitted by: Employee 
-Assigned to: Daphne Louis-Juste
-Resolution: Disable user account through Active Directory.
-Outcome: Disabled users account,changed there password and turned off log-on hours.
+🧾**Ticket #6: New Employee**
+- Category: User Account 👤
+- Submitted by: Employee
+- Assigned to: Daphne Louis-Juste
+- Resolution: Create an account for a new employee through Active Directory.
+- Outcome: Issue resolved within SLA window. User account created.
+  
+    🎥 **Video Reference:** [Adding Employee Ticket Demo](https://youtu.be/L1YBVSlaopE)
+  
+---
+🧾 **Ticket #8: Disable User Account**
+- Category: User Account 👤 
+- Submitted by: Employee 
+- Assigned to: Daphne Louis-Juste
+- Resolution: Disable user account through Active Directory.
+- Outcome: Disabled users account,changed there password and turned off log-on hours.
+   🎥 **Video Reference:** [Disabling User Account Ticket Demo]
 
 🧾 Ticket #8: Disable User Account
 Category: User Account 👤 
