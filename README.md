@@ -19,7 +19,7 @@ Detailed breakdowns are available in the [/docs](./docs) folder:
 
 ## 🎥 Media
 
-Video demonstrations and screenshots can be found in the [/media](./media) folder.
+Video demonstrations and screenshots can be found in the[/docs](./docs)[/media](./media) folder.
 
 ---
 
