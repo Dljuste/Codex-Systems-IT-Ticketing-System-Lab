@@ -43,7 +43,8 @@ This section documents 13 simulated tickets that reflect real-world IT operation
 - Assigned to: Daphne Louis-Juste
 - Resolution: Disable user account through Active Directory.
 - Outcome: Disabled users account,changed there password and turned off log-on hours.
-   🎥 **Video Reference:** [Disabling User Account Ticket Demo]
+  
+   🎥 **Video Reference:** [Disabling User Account Ticket Demo](https://youtu.be/blmsOLxYQe8)
 
 
 
