@@ -1,29 +1,4 @@
-# osTicket Setup and Configuration
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🏗️ Deployment
-- Installed **osTicket** on an Azure-hosted **Windows Server 2022** VM.
-- Configured IIS, PHP, and MySQL to support the osTicket web portal.
-- Verified server access and ticket portal availability through public IP.
+# osTicket Branding
 
 ### 🧩 Branding and Customization
 - Rebranded osTicket interface with **Codex Systems** logo and color palette.
@@ -32,7 +7,7 @@
 
 ### 🔐 Configuration Highlights
 - Enabled email piping for automatic ticket generation.
-- Set up categories: *Hardware*, *Software*, *Network*, *User Account*.
+- Set up categories
 - Assigned default technicians per category for faster triage.
 
 ### 🧪 Testing
