@@ -10,10 +10,10 @@ The purpose of this lab was to simulate real-world IT service management (ITSM) 
 ## 📁 Documentation
 
 Detailed breakdowns are available in the [/docs](./docs) folder:
-1. [01_osTicket_Setup.md](./docs/02_osTicket_Setup.md) → osTicket installation & configuration  
-2. [02_osTicket_Tickets.md](./docs/03_osTicket_Tickets.md) → Two example ticket resolutions  
-3. [03_Spiceworks_Tickets.md](./docs/05_Spiceworks_Tickets.md) → Twelve simulated tickets & workflows   
-4. [04_Conclusion.md](./docs/07_Conclusion.md) → Summary, results, and future enhancements  
+1. [01_osTicket_Setup.md](./docs/01_osTicket_Setup.md) → osTicket installation & configuration  
+2. [02_osTicket_Tickets.md](./docs/02_osTicket_Tickets.md) → Two example ticket resolutions  
+3. [03_Spiceworks_Tickets.md](./docs/03_Spiceworks_Tickets.md) → Twelve simulated tickets & workflows   
+4. [04_Conclusion.md](./docs/04_Conclusion.md) → Summary, results, and future enhancements  
 
 ---
 
