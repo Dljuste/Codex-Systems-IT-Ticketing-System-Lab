@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+### 🧩 Branding and Customization
+- Rebranded osTicket interface with **Codex Systems** logo and color palette.
+- Updated system name, email templates, and company information.
+- Configured user roles: Admin, Technician, End User.
+
+### 🔐 Configuration Highlights
+- Enabled email piping for automatic ticket generation.
+- Set up categories: *Hardware*, *Software*, *Network*, *User Account*.
+- Assigned default technicians per category for faster triage.
+
+### 🧪 Testing
+- Confirmed ticket submission and assignment workflows.
+- Verified technician dashboard visibility and permissions.
