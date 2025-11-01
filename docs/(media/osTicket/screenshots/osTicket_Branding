@@ -1,5 +1,25 @@
 # osTicket Setup and Configuration
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🏗️ Deployment
 - Installed **osTicket** on an Azure-hosted **Windows Server 2022** VM.
 - Configured IIS, PHP, and MySQL to support the osTicket web portal.
