@@ -22,8 +22,7 @@ The following two tickets demonstrate standard IT service desk workflows within 
 
 ---
 
-🎥 **Video Reference:**
-[osTicket Demonstration]
+🎥 **Video Reference:**[osTicket Demonstration]
 
-Ticket #263456(https://youtu.be/L1YBVSlaopE) 
-Ticket #325769(https://youtu.be/blmsOLxYQe8)
+- Ticket #263456(https://youtu.be/L1YBVSlaopE) 
+- Ticket #325769(https://youtu.be/blmsOLxYQe8)
