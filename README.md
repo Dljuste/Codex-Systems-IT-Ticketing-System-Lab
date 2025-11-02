@@ -1,5 +1,8 @@
 
-# Codex Systems: IT Ticketing System Lab
+<p align="center">
+<img width="557" height="154" alt="image" src="https://github.com/user-attachments/assets/02c1648e-09a5-4fef-bcb1-6cda273307af" />
+  
+</p>
 
 This project expands the fictional **Codex Systems** IT environment by implementing two service desk platforms — **osTicket** and **Spiceworks** — hosted on **Microsoft Azure virtual machines** and **VMware**.
 
@@ -11,9 +14,10 @@ The purpose of this lab was to simulate real-world IT service management (ITSM) 
 
 Detailed breakdowns are available in the [/docs](./docs) folder:
 1. [01_osTicket_Setup.md](./docs/01_osTicket_Setup.md) → osTicket installation & configuration  
-2. [02_osTicket User_Tickets.md](./docs/02_osTicket_User_Tickets.md) → Two example ticket resolutions on osTicket  
-3. [03_Spiceworks_Tickets.md](./docs/03_Spiceworks_Tickets.md) → Thirteen simulated tickets & workflows   
-4. [04_Conclusion.md](./docs/04_Conclusion.md) → Summary and results
+2. [02_osTicket User_Tickets.md](./docs/02_osTicket_User_Tickets.md) → Two example ticket resolutions on osTicket
+3. [Bonus:osTicket Branding](./docs/osTicket_Branding)  
+4. [03_Spiceworks_Tickets.md](./docs/03_Spiceworks_Tickets.md) → Thirteen simulated tickets & workflows   
+5. [04_Conclusion.md](./docs/04_Conclusion.md) → Summary and results
 
 ---
 
