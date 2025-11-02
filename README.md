@@ -17,12 +17,6 @@ Detailed breakdowns are available in the [/docs](./docs) folder:
 
 ---
 
-## 🖌️Osticket Branding
-
-Video demonstration and screenshots can be found in the[/docs](./docs)[/osTicket Branding](./osTicket Branding) folder.
-
----
-
 ## 🚀 Key Takeaways
 
 - Deployed osTicket and Spiceworks Help Desk on Azure & VMware  
